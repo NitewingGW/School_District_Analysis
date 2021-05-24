@@ -1,11 +1,10 @@
 # School_District_Analysis
-Analsysis of student grades
+### Analsysis of student grades
 
-# Analysis
-# Post Cheating Scandal Analysis
+## Post Cheating Scandal Analysis
 Due to the manipulation of grades by Thomas High school many of the metrics from last year need to be reviewed. Wide scale cheating or grade manipulation took place in the Thomas Hig School 9th grade class. All of the scrers for reaidng and math had to be removed. As such Thomas Overall ranking has been greatly affected.
 
-# Changes due to grading adjustments after the scandal
+## Changes due to grading adjustments after the scandal
 ### Results of removing Thomas High 9th grade scores and precentages
 
 * Thomas school ranking
@@ -30,10 +29,10 @@ Due to the manipulation of grades by Thomas High school many of the metrics from
   * No school other than Thomas High school was affected. Thomas High school grades are drastically lower.
 
       
-# Overall Analysis 
+## Overall Analysis 
 Overall analysis of the data revealed some possibly surpsing information. The success (ie the grades and passing percentage) of the students were not not directly linked or effected by funds spent on the students. School size had a much greater impact on the student and their education. On average the small and medium schools preformed relatively close to each other with a high overall passing rate. Large schools on the other hand faired poorly overall. Teacher to student ratio may come into play as well as demographics and class environment. Unfortuantely that additional data was not available for this analysis. Charter schools also faired greatly better than the Public schools. This may be due to the lack of standardized testing or quality of teachers. Testing data and teacher demographics/education were made available for this assessment.
 
-# Data Deliverables
+## Data Deliverables
 Summary of all elements can be found by running the attached Jupyter Notebook. Selct Run All and scroll to the bottom of the code. All relevane data will be listed and available to the user.
 
 ### The follwing are the names of each item-
