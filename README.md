@@ -1,5 +1,6 @@
 # School_District_Analysis
 ### Analsysis of student grades
+Code and Results available at https://github.com/NitewingGW/School_District_Analysis/blob/main/PyCitySchools_Challenge_testing.ipynb
 
 ## Post Cheating Scandal Analysis
 Due to the manipulation of grades by Thomas High school many of the metrics from last year need to be reviewed. Wide scale cheating or grade manipulation took place in the Thomas Hig School 9th grade class. All of the scrers for reaidng and math had to be removed. As such Thomas Overall ranking has been greatly affected.
@@ -47,5 +48,7 @@ Summary of all elements can be found by running the attached Jupyter Notebook. S
 * bottom_5 _ Bottom 5 performing schools
 * math_scores_df - Math scroes by school
 * reading_scores_df - Reading scores by school
+
+Code and Results available at https://github.com/NitewingGW/School_District_Analysis/blob/main/PyCitySchools_Challenge_testing.ipynb
 
 
