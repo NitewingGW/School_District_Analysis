@@ -33,7 +33,7 @@ Due to the manipulation of grades by Thomas High school many of the metrics from
 # Overall Analysis 
 Overall analysis of the data revealed some possibly surpsing information. The success (ie the grades and passing percentage) of the students were not not directly linked or effected by funds spent on the students. School size had a much greater impact on the student and their education. On average the small and medium schools preformed relatively close to each other with a high overall passing rate. Large schools on the other hand faired poorly overall. Teacher to student ratio may come into play as well as demographics and class environment. Unfortuantely that additional data was not available for this analysis. Charter schools also faired greatly better than the Public schools. This may be due to the lack of standardized testing or quality of teachers. Testing data and teacher demographics/education were made available for this assessment.
 
-# Data Deleverables
+# Data Deliverables
 Summary of all elements can be found by running the attached Jupyter Notebook. Selct Run All and scroll to the bottom of the code. All relevane data will be listed and available to the user.
 
 ### The follwing are the names of each item-
